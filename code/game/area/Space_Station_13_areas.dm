@@ -1154,6 +1154,10 @@ NOTE: there are two lists of areas in the end of this file: centcom and station 
 /area/science/nanite
 	name = "Laboratorium Nanitowe"
 	icon_state = "nanite"
+	
+/area/science/shuttledock
+	name = "Dok Promu Naukowego"
+	icon_state = "science"
 
 //Storage
 
