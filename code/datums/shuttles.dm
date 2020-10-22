@@ -126,6 +126,11 @@
 	port_id = "mining"
 	can_be_bought = FALSE
 
+/datum/map_template/shuttle/public_mining
+	name = "Publiczny Prom Wydobywczy"
+	port_id = "public_mining"
+	can_be_bought = FALSE
+
 /datum/map_template/shuttle/arrival
 	port_id = "arrival"
 	can_be_bought = FALSE

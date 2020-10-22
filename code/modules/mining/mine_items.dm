@@ -88,6 +88,13 @@
 		return
 	. = ..()
 
+/obj/machinery/computer/shuttle/mining/public_mining
+	name = "Konsola publicznego promu wydobywczego"
+	desc = "Uzywany do wzywania i wysylania publicznego promu wydobywczego."
+	circuit = /obj/item/circuitboard/computer/mining_shuttle/promix
+	shuttleId = "promix"
+	possible_destinations = "publiczny_dok;mining_away_2"
+
 //It is on lavaland, soooo....
 /obj/machinery/computer/shuttle/science
 	name = "science outpost shuttle console"
