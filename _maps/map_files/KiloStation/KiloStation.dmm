@@ -6996,7 +6996,7 @@
 	height = 4;
 	id = "publiczny_dok";
 	name = "Dok publicznego promu wydobywczego";
-	roundstart_template = /datum/map_template/shuttle/promix;
+	roundstart_template = /datum/map_template/shuttle/public_mining;
 	width = 8
 	},
 /turf/open/space/basic,
@@ -71655,6 +71655,10 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/hallway/secondary/exit/departure_lounge)
+"qzA" = (
+/obj/machinery/computer/shuttle/mining/public_mining,
+/turf/open/floor/plating,
+/area/maintenance/starboard/fore)
 "qSM" = (
 /obj/spacepod/prebuilt,
 /obj/effect/turf_decal/stripes/line{
@@ -103975,7 +103979,7 @@ aaa
 aaa
 aaa
 bqq
-aAn
+qzA
 aAn
 aTE
 aUa
