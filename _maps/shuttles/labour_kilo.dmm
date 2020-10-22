@@ -99,8 +99,8 @@
 /area/shuttle/labor)
 "k" = (
 /obj/machinery/mineral/stacking_machine/laborstacker{
-	input_dir = 2;
-	output_dir = 1
+	input_dir = 1;
+	output_dir = 2
 	},
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
