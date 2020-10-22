@@ -91,7 +91,7 @@
 /obj/machinery/computer/shuttle/mining/public_mining
 	name = "Konsola publicznego promu wydobywczego"
 	desc = "Uzywany do wzywania i wysylania publicznego promu wydobywczego."
-	circuit = /obj/item/circuitboard/computer/mining_shuttle/promix
+	circuit = /obj/item/circuitboard/computer/mining_shuttle/public_mining
 	shuttleId = "promix"
 	possible_destinations = "publiczny_dok;mining_away_2"
 
